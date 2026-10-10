@@ -1,5 +1,4 @@
-# hcc-combocode-assist-
-hcc-combocode-assist helpfull for medical coders
+
 # hcc-combocode-assist
 hcc-combocode-assist helpfull for coders
 HCC ComboCode Assist
