@@ -1,0 +1,28 @@
+{
+  "notice": "Illustrative concepts only. Not an official ICD-10-CM codebook.",
+  "rules": [
+    {
+      "concept": "Diabetes with a documented complication",
+      "main_terms": ["diabetes", "diabetic"],
+      "complication_terms": [
+        "neuropathy",
+        "nephropathy",
+        "retinopathy",
+        "chronic kidney disease",
+        "ckd",
+        "foot ulcer"
+      ],
+      "action": "human_review_required"
+    },
+    {
+      "concept": "Hypertension with a possible related condition",
+      "main_terms": ["hypertension", "high blood pressure"],
+      "complication_terms": [
+        "heart failure",
+        "chronic kidney disease",
+        "ckd"
+      ],
+      "action": "human_review_required"
+    }
+  ]
+}
